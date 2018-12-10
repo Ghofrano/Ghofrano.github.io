@@ -1,0 +1,20 @@
+
+@font-face {
+  font-family: 'tit';
+  font-style: normal;
+    src: url("font/TitilliumWeb-Regular.ttf"),
+         url("font/TitilliumWeb-Regular.eot"),
+         url("font/TitilliumWeb-Regular.woff") format('woff');
+}@font-face {
+  font-family: 'stit';
+  font-style: normal;
+    src: url("font/TitilliumWeb-SemiBold.ttf"),
+         url("font/TitilliumWeb-SemiBold.eot"),
+         url("font/TitilliumWeb-SemiBold.woff") format('woff');
+}@font-face {
+  font-family: 'btit';
+  font-style: normal;
+    src: url("font/TitilliumWeb-Bold.ttf"),
+         url("font/TitilliumWeb-Bold.eot"),
+         url("font/TitilliumWeb-Bold.woff") format('woff');
+}
